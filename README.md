@@ -1,5 +1,5 @@
-Food Order System
-The Food Order System is an offline project implemented in C# that allows users to place food orders. It includes functionality for managing categories, products, user information, and order packages.
+#Food Order System
+The Food Order System is an offline project implemented in C# that allows users to place food orders. It includes functionality for managing categories, products and order packages.
 
 Getting Started
 To run the Food Order System project on your local machine, follow these steps:
